@@ -1,0 +1,10 @@
+{
+  "id": "minecraft:soul_speed",
+  "items": [
+    "$minecraft:armor_feet",
+    "apotheosis:boots_tome",
+    "alexsmobs:pigshoes",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": []
+}

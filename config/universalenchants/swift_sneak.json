@@ -1,0 +1,8 @@
+{
+  "id": "minecraft:swift_sneak",
+  "items": [
+    "$minecraft:armor_legs",
+    "apotheosis:leggings_tome"
+  ],
+  "incompatible": []
+}

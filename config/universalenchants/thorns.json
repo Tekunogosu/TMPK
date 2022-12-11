@@ -1,0 +1,17 @@
+{
+  "id": "minecraft:thorns",
+  "items": [
+    "$minecraft:armor_chest",
+    "apotheosis:other_tome",
+    "apotheosis:chestplate_tome",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "apotheosis:icy_thorns",
+    "twilightforest:chill_aura",
+    "ensorcellation:frost_rebuke",
+    "ensorcellation:fire_rebuke",
+    "twilightforest:fire_react",
+    "ensorcellation:displacement"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "minecraft:frost_walker",
+  "items": [
+    "$minecraft:armor_feet",
+    "apotheosis:boots_tome",
+    "alexsmobs:pigshoes",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "minecraft:depth_strider"
+  ]
+}

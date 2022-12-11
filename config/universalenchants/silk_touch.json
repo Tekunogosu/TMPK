@@ -1,0 +1,17 @@
+{
+  "id": "minecraft:silk_touch",
+  "items": [
+    "$minecraft:digger",
+    "ae2:annihilation_plane",
+    "apotheosis:pickaxe_tome",
+    "twilightforest:block_and_chain",
+    "the_bumblezone:carpenter_bee_boots_1",
+    "the_bumblezone:carpenter_bee_boots_2"
+  ],
+  "incompatible": [
+    "miningmaster:stonebreaker",
+    "minecraft:fortune",
+    "minecraft:luck_of_the_sea",
+    "minecraft:looting"
+  ]
+}

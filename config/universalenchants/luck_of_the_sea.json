@@ -1,0 +1,10 @@
+{
+  "id": "minecraft:luck_of_the_sea",
+  "items": [
+    "$minecraft:fishing_rod",
+    "apotheosis:fishing_tome"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch"
+  ]
+}

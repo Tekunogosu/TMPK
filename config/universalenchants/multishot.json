@@ -1,0 +1,9 @@
+{
+  "id": "minecraft:multishot",
+  "items": [
+    "$minecraft:crossbow",
+    "apotheosis:other_tome",
+    "$minecraft:bow"
+  ],
+  "incompatible": []
+}

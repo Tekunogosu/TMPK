@@ -1,0 +1,16 @@
+{
+  "id": "minecraft:infinity",
+  "items": [
+    "$minecraft:bow",
+    "apotheosis:bow_tome",
+    "vampirism:basic_crossbow",
+    "vampirism:basic_double_crossbow",
+    "vampirism:enhanced_crossbow",
+    "vampirism:enhanced_double_crossbow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "apotheosis:endless_quiver",
+    "vampirism:crossbowfrugality"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "minecraft:smite",
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "apotheosis:weapon_tome",
+    "twilightforest:block_and_chain",
+    "farmersdelight:skillet",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:netherite_knife",
+    "farmersdelight:golden_knife",
+    "the_bumblezone:stinger_spear",
+    "kobolds:kobold_iron_axe",
+    "savage_and_ravage:cleaver_of_beheading",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "ensorcellation:damage_illager",
+    "minecraft:impaling",
+    "ensorcellation:instigating",
+    "minecraft:bane_of_arthropods",
+    "apotheosis:bane_of_illagers",
+    "vampirism:vampireslayer",
+    "ensorcellation:damage_ender",
+    "ensorcellation:magic_edge",
+    "ensorcellation:damage_villager"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "minecraft:sweeping",
+  "items": [
+    "$minecraft:weapon",
+    "apotheosis:weapon_tome",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "ensorcellation:magic_edge"
+  ]
+}

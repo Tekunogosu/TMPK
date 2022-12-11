@@ -1,0 +1,11 @@
+{
+  "id": "minecraft:riptide",
+  "items": [
+    "$minecraft:trident",
+    "apotheosis:other_tome"
+  ],
+  "incompatible": [
+    "minecraft:loyalty",
+    "minecraft:channeling"
+  ]
+}

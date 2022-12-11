@@ -1,0 +1,12 @@
+{
+  "id": "minecraft:quick_charge",
+  "items": [
+    "$minecraft:crossbow",
+    "apotheosis:other_tome",
+    "the_bumblezone:bee_cannon",
+    "the_bumblezone:crystal_cannon",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": []
+}

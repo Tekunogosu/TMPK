@@ -1,0 +1,17 @@
+{
+  "id": "minecraft:power",
+  "items": [
+    "$minecraft:bow",
+    "apotheosis:bow_tome",
+    "the_bumblezone:crystal_cannon",
+    "vampirism:basic_crossbow",
+    "vampirism:basic_double_crossbow",
+    "vampirism:basic_tech_crossbow",
+    "vampirism:enhanced_crossbow",
+    "vampirism:enhanced_double_crossbow",
+    "vampirism:enhanced_tech_crossbow",
+    "create:potato_cannon",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "minecraft:projectile_protection",
+  "items": [
+    "$minecraft:armor",
+    "apotheosis:helmet_tome",
+    "apotheosis:chestplate_tome",
+    "apotheosis:leggings_tome",
+    "apotheosis:boots_tome",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "minecraft:blast_protection",
+    "ensorcellation:magic_protection",
+    "minecraft:fire_protection",
+    "minecraft:protection"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "minecraft:aqua_affinity",
+  "items": [
+    "$minecraft:armor_head",
+    "apotheosis:helmet_tome"
+  ],
+  "incompatible": []
+}

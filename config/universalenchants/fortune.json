@@ -1,0 +1,16 @@
+{
+  "id": "minecraft:fortune",
+  "items": [
+    "$minecraft:digger",
+    "minecraft:shears",
+    "ae2:annihilation_plane",
+    "blue_skies:ventium_shears",
+    "apotheosis:pickaxe_tome",
+    "twilightforest:block_and_chain",
+    "the_bumblezone:carpenter_bee_boots_1",
+    "the_bumblezone:carpenter_bee_boots_2"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch"
+  ]
+}

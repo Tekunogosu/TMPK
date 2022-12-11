@@ -1,0 +1,28 @@
+{
+  "id": "minecraft:sharpness",
+  "items": [
+    "$minecraft:weapon",
+    "minecraft:trident",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "apotheosis:weapon_tome",
+    "twilightforest:block_and_chain",
+    "farmersdelight:skillet",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:netherite_knife",
+    "farmersdelight:golden_knife",
+    "savage_and_ravage:cleaver_of_beheading",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "ensorcellation:damage_illager",
+    "ensorcellation:instigating",
+    "vampirism:vampireslayer",
+    "ensorcellation:damage_ender",
+    "ensorcellation:magic_edge",
+    "ensorcellation:damage_villager"
+  ]
+}
